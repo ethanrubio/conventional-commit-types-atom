@@ -1,0 +1,28 @@
+{
+  "name": "conventional-commit-types-atom",
+  "version": "0.0.1",
+  "description": "List of conventional commit types for atom",
+  "main": "src/index.json",
+  "repository": {
+    "url": "https://github.com/ethanrubio/conventional-commit-types-atom.git",
+    "type": "git"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "atom",
+    "conventional-commits",
+    "commitizen",
+    "emoji"
+  ],
+  "author": "ethanrubio <ethanrubio@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "commitizen": "^2.8.6",
+    "standard-version": "^3.0.0"
+  }
+}

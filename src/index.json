@@ -1,0 +1,52 @@
+{
+  "types": {
+    "": {
+      "description": "when finding no applicable emoji"
+    },
+    "🎨": {
+      "description": "when improving the format/structure of the code"
+    },
+    "🐎": {
+      "description": "when improving performance"
+    },
+    "🚱": {
+      "description": "when plugging memory leaks"
+    },
+    "📝": {
+      "description": "when writing docs"
+    },
+    "🐧": {
+      "description": "when fixing something on Linux"
+    },
+    "🍎": {
+      "description": "when fixing something on Mac OS"
+    },
+    "🏁": {
+      "description": "when fixing something on Windows"
+    },
+    "🐛": {
+      "description": "when fixing a bug"
+    },
+    "🔥": {
+      "description": "when removing code or files"
+    },
+    "💚": {
+      "description": "when fixing the CI build"
+    },
+    "✅": {
+      "description": "when adding tests"
+    },
+    "🔒": {
+      "description": "when dealing with security"
+    },
+    "⬆️": {
+      "description": "when upgrading dependencies"
+    },
+    "⬇️": {
+      "description": "when downgrading dependencies"
+    },
+    "👕": {
+      "description": "when removing linter warnings"
+    }
+  }
+}
