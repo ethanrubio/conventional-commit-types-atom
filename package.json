@@ -22,7 +22,7 @@
     "release": "standard-version"
   },
   "devDependencies": {
-    "commitizen": "^2.8.6",
+    "commitizen": "^3.0.4",
     "standard-version": "^3.0.0"
   }
 }
